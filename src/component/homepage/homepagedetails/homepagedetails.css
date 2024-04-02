@@ -1,0 +1,13 @@
+.route-details{
+    display: flex;
+    justify-content: center;
+}
+.image-details{
+    width:300px;
+    border-radius: 15px;
+}
+
+.image-details-id{
+    width:300px;
+    margin-top: 30px;
+}
